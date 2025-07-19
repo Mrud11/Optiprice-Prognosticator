@@ -1,4 +1,4 @@
-# Optiprice-Prognosticator: An AI - Powered optimal pricing 
+# Optiprice-Prognosticator: An AI- Powered optimal pricing 
 
 # Overview
 The E-commerce Price Predictor is a Streamlit application designed to predict optimal product prices using machine learning models, specifically the XGBoost model. The app allows users to input product details and receive price predictions based on various features such as category, rating, discount, and reviews count. Additionally, the app provides insights into competitor pricing and market demand.
